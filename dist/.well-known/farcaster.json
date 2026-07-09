@@ -1,1 +1,8 @@
-<html><body>You are being <a href="https://sprites.dev/auth/sprite?return_url=SFMyNTY.g2gDbQAAAFdodHRwOi8vcGctZjFjZDViNDVmM2VhNGMxNWE3MGI2YWFjMWIxMWI2OTYtYnN5d2Yuc3ByaXRlcy5hcHAvLndlbGwta25vd24vZmFyY2FzdGVyLmpzb25uBgDDTKFEnwFiAAFRgA.6BMSnxumYr1FUJ2ChBcAD9EalSHBYC6m99Ba5nQH6N4">redirected</a>.</body></html>
+{
+  "frame": {
+    "version": "1",
+    "name": "Based Farcaster Frens",
+    "homeUrl": "https://basedfcfrens.netlify.app",
+    "webhookUrl": "https://basedfcfrens.netlify.app/api/webhook"
+  }
+}
