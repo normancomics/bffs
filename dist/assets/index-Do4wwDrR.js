@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://sprites.dev/auth/sprite?return_url=SFMyNTY.g2gDbQAAAFVodHRwOi8vcGctZjFjZDViNDVmM2VhNGMxNWE3MGI2YWFjMWIxMWI2OTYtYnN5d2Yuc3ByaXRlcy5hcHAvYXNzZXRzL2luZGV4LURvNHd3RHJSLmpzbgYAVHyhRJ8BYgABUYA.Dy3bwieAu2y8pH4ZJLyVYJvDcMfbevxC2AJgvc6vbhU">redirected</a>.</body></html>
